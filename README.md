@@ -25,47 +25,7 @@ Using Power Query - Transforming and cleaning data efficiently.
 Using DAX (Data Analysis Expressions) - Writing custom calculations and measures.
 
 Visualization Techniques - Designing impactful reports with best practices.
-
-**📂 Folder Structure**
-
-PowerBI-Tutorials/
-│   README.md  --> Overview of the repository
-│   LICENSE    --> Licensing details (Optional)
-│
-├── Basic-Dashboard/
-│   ├── Basic_Dashboard.pbix
-│   ├── Dashboard_Guide.md
-│
-├── Bin-List-Tutorial/
-│   ├── Bin_List.pbix
-│   ├── Bin_Tutorial.md
-│
-├── Building-Relationships/
-│   ├── Relationships.pbix
-│   ├── Relationships_Guide.md
-│
-├── Conditional-Formatting/
-│   ├── Conditional_Formatting.pbix
-│   ├── Conditional_Formatting_Guide.md
-│
-├── Drill-Down/
-│   ├── Drill_Down.pbix
-│   ├── Drill_Down_Guide.md
-│
-├── Power-Query/
-│   ├── Power_Query.pbix
-│   ├── Power_Query_Guide.md
-│
-├── DAX-Functions/
-│   ├── DAX_Tutorial.pbix
-│   ├── DAX_Guide.md
-│
-├── Visualization-Tutorial/
-│   ├── Visualization.pbix
-│   ├── Visualization_Guide.md
-
-**🔥 Getting Started**
-
+ 
 **Clone the repository:**
 
 git clone https://github.com/yourusername/PowerBI-Tutorials.git
